@@ -1,0 +1,9 @@
+1) Um engenheiro de software júnior não teria apenas a responsabilidade de programar e analisar o código, o uso sábio da ferramenta pode o tornar um profissional melhor.
+
+Saber desenvolver e analisar um código para que o profissional saiba o que esta ocorrendo de errado com o código e possíveis soluções, diferente de uma pessoa que não sabe o que tá acontecendo com o código e vai apenas usar a IA como meio para correção do software.
+
+
+
+2) No momento em que a pessoa que está usando a IA não sabe mais o que esta acontecendo no código e pede para a IA fazer tudo por ele, sem nem mesmo saber o que está dando errado.
+
+Uma solução seria o profissional saber analisar a linguagem e o código e pedir a IA ajudar e guiar naquilo o que o profissional não entendeu.
