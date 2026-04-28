@@ -24,7 +24,6 @@ Para garantir robustez e escalabilidade sem custos operacionais, o sistema foi i
 
 ## 🔧 Links do Projeto
 * **Repositório GitHub:** [https://github.com/RafaelCovre/Git-qr-lab](https://github.com/RafaelCovre/Git-qr-lab)
-* **Google AI Studio (Share):** [Link do seu projeto aqui]
 
 ---
 [Voltar ao início](https://github.com/RafaelCovre/portfolio_Rafael_Covre)
