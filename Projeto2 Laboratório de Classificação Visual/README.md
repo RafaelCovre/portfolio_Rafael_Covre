@@ -20,7 +20,7 @@ http://googleusercontent.com/image_generation_content/0
 * [cite_start]**Variação de Tokens:** Houve diferença significativa na verbosidade; enquanto o Maritaca gastou ~1.100 tokens, o Claude utilizou entre 3.800 e 4.200 tokens para o mesmo resultado[cite: 11, 15, 16].
 * [cite_start]**Escolha de Ferramenta:** O Gemini foi identificado como o melhor para prototipagem rápida, enquanto o Claude é indicado para códigos mais complexos[cite: 17, 18].
 
-![Gráfico de Desempenho de Modelos](IMAGEM_2_AQUI)
+
 [cite_start]*Figura 2: Análise comparativa da precisão do HTML e criatividade entre os modelos[cite: 9, 11].*
 
 ## 🔧 Como Executar
@@ -32,4 +32,4 @@ http://googleusercontent.com/image_generation_content/0
 *Figura 3: Representação visual do pipeline de geração via tags XML.*
 
 ---
-[Voltar ao início]((https://github.com/RafaelCovre/portfolio_Rafael_Covre))
+[Voltar ao início(https://github.com/RafaelCovre/portfolio_Rafael_Covre))]
