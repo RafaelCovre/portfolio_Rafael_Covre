@@ -1,0 +1,11 @@
+Parte 2:
+
+MECANISMO DO VIÉS: o viés acontece porque o modelo aprende com as imagens que recebe, por exemplo nas imagens acima onde eu estou com o rosto mostrando o modelo diz que eu estou de blusa, e quando eu estou sem meu rosto mostra que estou sem blusa, ele apenas reconhece coisas que se repetem nas imagens
+
+
+
+CONSEQUENCIA SOCIAL: ele pode estereotipar pessoas, o que pode ser visto como preconceito
+
+
+
+AÇÃO MITIGADORA: a human-in-the-loop inclui pessoas no momento de controle do sistema, sendo assim, pessoas estariam monitorando as imagens antes do treinamento de modelo, o que pode ajudar a evitar estereótipos
