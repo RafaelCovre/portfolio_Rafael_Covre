@@ -49,13 +49,13 @@ Atualmente cursando o 2º período de Análise e Desenvolvimento de Sistemas na 
 | :--- | :--- | :---: |
 | Atividade | Descrição Técnica | Entrega | Status |
 | :--- | :--- | :---: | :--- |
-| **SM1 - A Corrida do Prompt** | Técnicas avançadas de interação com LLMs. | 02/03 | (projeto)  não esta Concluído |
-| **SM2 - Lab. de Classificação Visual** | Modelagem e visão computacional aplicada. | 09/03 | https://github.com/anab1231/Laborat-rio-de-Classifica-o-Visual/blob/main/README.md |
-| **SM3 - Batalha de Modelos & XML** | Engenharia de Prompt estruturada com XML. | 23/03 |
-| **SM4 - Engenharia Reversa** | Desconstrução e análise de arquiteturas de software. | 31/03 |
-| **SM5 - Do Clone ao MVP+** | Desenvolvimento de Produto Mínimo Viável funcional. | 07/04 | |
+| **SM1 - A Corrida do Prompt** | Técnicas avançadas de interação com LLMs. | 02/03 |https://github.com/RafaelCovre/portfolio_Rafael_Covre/tree/main/Projeto1%20A%20corrida%20do%20Prompt |
+| **SM2 - Lab. de Classificação Visual** | Modelagem e visão computacional aplicada. | 09/03 | https://github.com/RafaelCovre/portfolio_Rafael_Covre/tree/main/Projeto2%20Laborat%C3%B3rio%20de%20Classifica%C3%A7%C3%A3o%20Visual |
+| **SM3 - Batalha de Modelos & XML** | Engenharia de Prompt estruturada com XML. | 23/03 | https://github.com/RafaelCovre/portfolio_Rafael_Covre/tree/main/Projeto3%20Batalha%20de%20Modelos%20%26%20Engenharia%20de%20Prompt%20(XML) |
+| **SM4 - Engenharia Reversa** | Desconstrução e análise de arquiteturas de software. | 31/03 | https://github.com/RafaelCovre/portfolio_Rafael_Covre/tree/main/Projeto4%20Engenharia%20Reversa |
+| **SM5 - Do Clone ao MVP+** | Desenvolvimento de Produto Mínimo Viável funcional. | 07/04 | https://github.com/RafaelCovre/portfolio_Rafael_Covre/tree/main/Projeto5%20Do%20Clone%20ao%20Produto%20M%C3%ADnimo%20Vi%C3%A1vel%20(MVP%2B) |
 | **SM7 - IA com Bubble.io** | Desenvolvimento No-Code integrado com IA. | 22/04 |
-| **SM8 - Portfólio no GitHub** | Estruturação de presença digital e documentação. | 27/04 | 
+
  
 ---
  
