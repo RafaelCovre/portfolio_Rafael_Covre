@@ -1,0 +1,16 @@
+Questão A: 
+
+Resposta: impacta bastante pois um engenheiro de software júnior teria que aprender a usar a IA com o uso consciente para não deixar ela fazer todo o trabalho no lugar dele, um engenheiro de software júnior teria que entender o que a IA está fazendo para analisar possíveis problemas, por isso aprender a programar e a analisar a linguagem seriam 2 coisas que o engenheiro de software júnior poderia fazer e melhorar para não se tornar obsoleto perto dessas ferramentas
+
+
+
+Questão B:
+
+Resposta: 1. quando  o profissional não sabe mais o que está acontecendo no código e ele está totalmente sem originalidade
+
+2. entender e analisar a linguagem que está sendo utilizada e ter autenticidade no projeto
+
+
+
+Link do projeto: https://github.com/RafaelCovre/Git-qr-lab
+
