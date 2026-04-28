@@ -32,4 +32,4 @@ http://googleusercontent.com/image_generation_content/0
 *Figura 3: Representação visual do pipeline de geração via tags XML.*
 
 ---
-[Voltar ao início(https://github.com/RafaelCovre/portfolio_Rafael_Covre))]
+[Voltar ao início(https://github.com/RafaelCovre/portfolio_Rafael_Covre)]
