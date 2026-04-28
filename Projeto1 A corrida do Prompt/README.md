@@ -48,4 +48,4 @@ O projeto demonstrou que a precisão de uma IA depende diretamente da clareza e 
 * **Multimodalidade:** A transição entre gerar um texto criativo e uma imagem técnica exige a mudança de termos genéricos para termos descritivos (ex: "estilo barroco", "cinematic lighting").
 
 ---
-[Voltar ao início](https://github.com/seu-usuario/seu-repositorio)
+[Voltar ao início]([https://github.com/seu-usuario/seu-repositorio](https://github.com/RafaelCovre/portfolio_Rafael_Covre))
