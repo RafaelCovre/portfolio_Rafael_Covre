@@ -12,11 +12,8 @@ garantindo privacidade e alta performance sem a necessidade de cadastros complex
 ---
 
 ## 📸 Capturas de Tela / Demonstração
-Aqui você pode adicionar um GIF ou imagem do aplicativo em funcionamento.
 
-<p align="center">
-  <img src="https://via.placeholder.com/600x400?text=GIF+do+App+em+Ação" alt="Demonstração do App">
-</p>
+<img width="1338" height="575" alt="image" src="https://github.com/user-attachments/assets/2a34b9b6-8e68-4f8f-b453-46a593d3f21b" />
 
 ---
 
