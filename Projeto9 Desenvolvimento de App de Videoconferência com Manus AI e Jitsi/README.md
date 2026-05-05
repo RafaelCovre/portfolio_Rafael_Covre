@@ -14,6 +14,7 @@ garantindo privacidade e alta performance sem a necessidade de cadastros complex
 ## 📸 Capturas de Tela / Demonstração
 
 <img width="1338" height="575" alt="image" src="https://github.com/user-attachments/assets/2a34b9b6-8e68-4f8f-b453-46a593d3f21b" />
+<img width="1346" height="577" alt="image" src="https://github.com/user-attachments/assets/1d51472c-ed76-4eea-a45b-11d3ab3aba35" />
 
 ---
 
