@@ -22,8 +22,8 @@ O assistente (Gems) utilizado para modelagem das letras pode ser acessado atrav�
 | Faixa | Título | Estilo/Referência | Link do Áudio |
 | :--- | :--- | :--- | :--- |
 
-| 01 | [Electric Shadow] | [Estilo Dance-Pop / Funk futurista. Energético, misterioso e dançante] | [Arquivo MP3](https://github.com/user-attachments/files/27614335/Electric.Shadow.mp3)) |
-| 02 | [Voices in the Hallway] | Estilo Suspense-Pop / Rock. Sombrio, tenso, com batidas cinemáticas. | [Voices in tay.mp3](https://github.com/user-attachments/files/27614354/Voices.in.the.Hallway.mp3) |
+| 01 | [Electric Shadow] | [Estilo Dance-Pop / Funk futurista. Energético, misterioso e dançante] | [Eletric Shadows](https://github.com/user-attachments/files/27614335/Electric.Shadow.mp3)) |
+| 02 | [Voices in the Hallway] | Estilo Suspense-Pop / Rock. Sombrio, tenso, com batidas cinemáticas. | [Voices in the hallway.mp3](https://github.com/user-attachments/files/27614354/Voices.in.the.Hallway.mp3) |
 | 03 | [The Mirror’s Truth] | [Estilo R&B / Soul. Reflexivo, emocional e suave] | [Mirror Truth.mp3](https://github.com/user-attachments/files/27614400/Mirror.Truth.mp3) |
 | 04 | [City of Lies] | [Estilo Funk-Rock. Agressivo, rítmico e urgente] | [City of Lies.mp3](https://github.com/user-attachments/files/27614416/City.of.Lies.mp3) |
 | 05 | [Velvet Moonlight] | [Estilo Balada Mid-tempo. Romântico, doce e sonhador] | [Velvet Moonlight.mp3](https://github.com/user-attachments/files/27614459/Velvet.Moonlight.mp3) |
